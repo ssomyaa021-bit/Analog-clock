@@ -21,7 +21,7 @@ JavaScript uses the current time to calculate the rotation of the hour, minute, 
 
 ## Live Demo
 
-Coming soon...
+[View Live Analog Clock](https://ssomyaa021-bit.github.io/Analog-clock/)
 
 ## Project Preview
 
